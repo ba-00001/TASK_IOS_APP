@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] App displays a list of tasks
 - [x] Users can add tasks to the list
 - [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-  - [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
+- [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
 - [x] Tasks can be deleted
 - [x] Users have a calendar view via navigation controller that displays tasks	
 
@@ -26,7 +26,13 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+<!-- Single row of images with names -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_gif.gif" width="200" alt="Image 1">
+    <figcaption> App 1</figcaption>
+  </figure>
+    </div>
 
 
 ## Notes
