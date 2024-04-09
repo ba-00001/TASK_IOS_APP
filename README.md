@@ -5,7 +5,7 @@ Submitted by: **BRIAN BAZURTO**
 **Task App** is an app that you can use to create task that you plan to do with dates when they should be due by. There's also a side
 where you can view your calender to see tasks you have due for differents dates.
 
-Time spent: **2** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -29,8 +29,51 @@ The following **additional** features are implemented:
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_gif.gif" width="500" alt="Image 1">
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_gif.gif" width="500" alt="Image DEMO">
+    <br><figcaption> App DEMO</figcaption>
+  </figure>
+    </div>
+
+<!-- Single row of images with names -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE1.png" width="500" alt="Image 1">
     <br><figcaption> App 1</figcaption>
+  </figure>
+    </div>
+
+<!-- Single row of images with names -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE2.png" width="500" alt="Image 1">
+    <br><figcaption> App 2</figcaption>
+  </figure>
+    </div>
+
+
+<!-- Single row of images with names -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE3.png" width="500" alt="Image 1">
+    <br><figcaption> App 3</figcaption>
+  </figure>
+    </div>
+
+
+<!-- Single row of images with names -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE4.png" width="500" alt="Image 1">
+    <br><figcaption> App 4</figcaption>
+  </figure>
+    </div>
+
+
+<!-- Single row of images with names -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE5.png" width="500" alt="Image 1">
+    <br><figcaption> App 5</figcaption>
   </figure>
     </div>
 
