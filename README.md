@@ -1,9 +1,8 @@
-# Project 7 - *Task App*
+# Project 7 - *TaskManager App*
 
 Submitted by: **BRIAN BAZURTO**
 
-**Task App** is an app that you can use to create task that you plan to do with dates when they should be due by. There's also a side
-where you can view your calender to see tasks you have due for differents dates.
+**TaskManager** is an app that helps users manage their tasks efficiently by providing features such as displaying a list of tasks, adding new tasks, deleting tasks, and viewing tasks in a calendar view.
 
 Time spent: **4** hours spent in total
 
