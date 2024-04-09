@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_gif.gif" width="200" alt="Image 1">
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_gif.gif" width="500" alt="Image 1">
     <figcaption> App 1</figcaption>
   </figure>
     </div>
