@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_gif.gif" width="500" alt="Image 1">
-    <figcaption> App 1</figcaption>
+    <br><figcaption> App 1</figcaption>
   </figure>
     </div>
 
