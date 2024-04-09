@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE1.png" width="500" alt="Image 1">
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE1.png" width="400" alt="Image 1">
     <br><figcaption> App 1</figcaption>
   </figure>
     </div>
@@ -45,7 +45,7 @@ The following **additional** features are implemented:
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE2.png" width="500" alt="Image 1">
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE2.png" width="400" alt="Image 1">
     <br><figcaption> App 2</figcaption>
   </figure>
     </div>
@@ -54,7 +54,7 @@ The following **additional** features are implemented:
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE3.png" width="500" alt="Image 1">
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE3.png" width="400" alt="Image 1">
     <br><figcaption> App 3</figcaption>
   </figure>
     </div>
@@ -63,7 +63,7 @@ The following **additional** features are implemented:
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE4.png" width="500" alt="Image 1">
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE4.png" width="400" alt="Image 1">
     <br><figcaption> App 4</figcaption>
   </figure>
     </div>
@@ -72,7 +72,7 @@ The following **additional** features are implemented:
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE5.png" width="500" alt="Image 1">
+    <img src="https://github.com/ba-00001/TASK_IOS_APP/blob/main/TASK_IOS_APP_IMAGE5.png" width="400" alt="Image 1">
     <br><figcaption> App 5</figcaption>
   </figure>
     </div>
